@@ -1,0 +1,15 @@
+{
+  "name": "alcashort",
+  "version": "1.0.0",
+  "description": "AlcaShort - simple, fast URL shortener with custom aliases. Credits: AlcaW44",
+  "private": true,
+  "license": "MIT",
+  "author": "AlcaW44",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "test": "node test/api.test.js"
+  }
+}
